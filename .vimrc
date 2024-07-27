@@ -7,6 +7,7 @@ set novisualbell
 set noerrorbells
 set tabstop=2
 set shiftwidth=2
+set expandtab
 	
 "leave yanked text in buffer after pasting
 xnoremap <leader>p \_dP
